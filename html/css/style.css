@@ -1,0 +1,36 @@
+/* .box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    text-align: center;
+    background-color:rgb( 161, 34, 61);
+    border: 2px solid black;
+    display: inline-block;
+    align-items: center;
+    justify-content: space-evenly;
+} */
+
+
+/* 
+.content{
+    color: aqua;
+}
+
+.newclass{
+    background-color: yellow;
+} */
+#mode{
+    background-color: rgb(0, 112, 240);
+    color: #ffffff;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+.dark{
+    background-color: black;
+}
+
+.light{
+    background-color: white;
+}
